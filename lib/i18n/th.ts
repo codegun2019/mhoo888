@@ -14,7 +14,7 @@ export const th = {
     subtitle: "ดาวน์โหลดแอปตอนนี้",
   },
   appInfo: {
-    name: "Mhoo888",
+    name: "Mhoowhan888",
     developer: "ThaiGaming Corporation",
     rating: "4.6",
     reviewCount: "500K รีวิว",
@@ -72,7 +72,7 @@ export const th = {
     header: "รางวัล",
     subheader: "คุณได้รับรางวัลใหญ่",
     description: "เรากำลังรวบรวมรีวิว เชิงข้อเท็จจริง สำหรับแอปนี้",
-    appName: "Mhoo888",
+    appName: "Mhoowhan888",
     verifiedBy: "Verified by Play Protect",
     rewardText: "หากคุณสามารถ ดาวน์โหลดแอป และให้รีวิว ตามความเป็นจริง และให้คะแนน คุณจะมีโอกาได้รับข้อเสนอจาก Google Play Free.",
     downloadText: "ดาวน์โหลดแอป",
